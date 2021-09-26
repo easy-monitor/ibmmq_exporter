@@ -1,0 +1,4 @@
+module:
+  - name: ibmmq01
+    user_id: admin
+    password: passw0rd
